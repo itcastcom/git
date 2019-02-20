@@ -6,4 +6,8 @@ public class FristGit {
         System.out.println("111111111");
         System.out.println("111111111");
     }
+    public void test(){
+        int a=0;
+        a+=10;
+    }
 }
